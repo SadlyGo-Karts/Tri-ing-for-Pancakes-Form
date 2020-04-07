@@ -1,0 +1,69 @@
+body
+{
+    padding-top: 5px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: left;
+    margin:auto ;
+    margin-left: 35%;
+    background-color: #E8DF97;
+}
+
+.pic1
+{
+    z-index: -1;
+    top: 12.5%;
+    position: absolute;
+    left: 10%;
+    scale: 125%;
+}
+
+.pic2
+{
+    z-index: -2;
+    top: 12.5%;
+    position: absolute;
+    right: 10%;
+    scale: 125%;
+}
+
+h1
+{
+    font-size: 50px;
+
+    margin-bottom: -5px;
+}
+
+h2
+{
+    font-size: 30px;
+}
+
+h4
+{
+    font-size: 17.5px;
+    margin-bottom: 0px;
+}
+
+.pls
+{
+    margin-bottom: -20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ethn
+{
+    margin-top: -30;
+    font-size: 17px;
+    margin-bottom: -30px;
+}
+
+.login
+{
+    margin-bottom: -20px;
+}
+
+.emc
+{
+    margin-bottom:-25px;
+}
